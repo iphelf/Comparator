@@ -7,6 +7,7 @@
 
 运行方式：
 - 先来一个`chmod +x compare.sh`和`chmod +x single.sh`
+- 创建wa文件夹
 - `./compare.sh [RoundNumber [MaximumWrongAnswerNumber]]`
 
     RoundNumber默认是100，MaximumWrongAnswerNumber默认是10
