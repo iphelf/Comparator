@@ -15,4 +15,4 @@
 
     InputFileName默认是in.txt
 
-截图：![见Screenshot.png](https://github.com/iphelf/Comparator/raw/master/Screenshot.png)
+截图：![见Screenshot.png](https://s2.ax1x.com/2019/11/02/KLRGIf.png)
