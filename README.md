@@ -8,8 +8,8 @@
 运行方式：
 - 先来一个`chmod +x compare.sh`和`chmod +x single.sh`
 - `./compare.sh [RoundNumber [MaximumWrongAnswerNumber]]`
-  RoundNumber默认是100，MaximumWrongAnswerNumber默认是10
+    RoundNumber默认是100，MaximumWrongAnswerNumber默认是10
 - `./single.sh [InputFileName]`
-  InputFileName默认是in.txt
+    InputFileName默认是in.txt
 
 截图：![见Screenshot.png](https://github.com/iphelf/Comparator/raw/master/Screenshot.png)
