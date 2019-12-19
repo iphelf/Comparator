@@ -15,4 +15,4 @@
 
     InputFileName默认是in.txt
 
-截图：<img src="https://s2.ax1x.com/2019/12/19/QqN6u8.png" alt="QqN6u8.png" border="0" />
+截图：![](https://ftp.bmp.ovh/imgs/2019/12/0ee7552ee64aad89.png)
